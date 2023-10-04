@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Annabelle';
+    src: url('Annabelle.woff2') format('woff2'),
+        url('Annabelle.woff') format('woff'),
+        url('Annabelle.ttf') format('truetype'),
+        url('Annabelle.svg#Annabelle') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
